@@ -5,6 +5,8 @@ https://youtu.be/juIAxp9bgrU
 
 ## Whether RabbitMQ is a stateless or stateful application
 
+RabbitMQ is a stateful application.
+
 ## The implications of running RabbitMQ without persistent storage
 
 ## What happens when the RabbitMQ pod is deleted or restarted
